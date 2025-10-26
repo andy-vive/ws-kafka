@@ -1,3 +1,5 @@
+# Demo using Kafka and Kafka Streams
+
 ### Wireframe
 ![wireframe](docs/images/wireframe.png)
 
